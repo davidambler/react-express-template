@@ -1,5 +1,5 @@
 # Basic React/Express Project
-This project uses React for clientside duties and Express for serverside. CSS is built using SASS.
+This project uses React for clientside duties and Express for serverside.
 
 # Installation
 To run this project, you need the following:
