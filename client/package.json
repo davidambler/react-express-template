@@ -22,7 +22,7 @@
   "scripts": {
     "start": "react-scripts start",
     "start:prod": "react-scripts start",
-    "build": "yarn build-css && react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom"
   },
   "devDependencies": {
